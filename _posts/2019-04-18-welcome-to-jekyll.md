@@ -17,6 +17,8 @@ Testing Audio
     <source src="https://audiopipe.suno.ai/?item_id=c8aee911-4e13-4aaf-8b76-3be56f76d28c" type="audio/mp3">
 </video>
 
+Other Example
+<audio src="https://audiopipe.suno.ai/?item_id=c8aee911-4e13-4aaf-8b76-3be56f76d28c"> </audio>
 
 Jekyll also offers powerful support for code snippets:
 
