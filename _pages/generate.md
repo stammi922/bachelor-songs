@@ -1,5 +1,6 @@
 ---
 layout: page
+permalink: /generate/
 title: Create Your Bachelor Party Song
 description: Engage with your crew to create the perfect funny song for the bachelor party!
 ---
